@@ -1,0 +1,13 @@
+.addevent-form{
+    border: 2px solid rosybrown;
+    padding:20px;
+    background-color: seashell;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.textArea{
+    width: 200px;
+}

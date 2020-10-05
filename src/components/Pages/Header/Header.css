@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header_home .logo{
+    height: 60%;
+    width: 30%;
+}
+
+.header_home nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_home ul {
+    list-style: none;
+    display: flex
+    
+}
+.header_home ul li a{
+    text-decoration: none;
+    padding-left: 30px;
+    color: black;
+    font-weight: 500;
+}
